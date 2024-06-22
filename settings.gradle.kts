@@ -1,0 +1,9 @@
+include(
+    "adapter:oauth",
+    "adapter:rdb",
+    "app:api",
+    "app:support:security",
+    "core",
+    "domain",
+    "support:yaml",
+)
