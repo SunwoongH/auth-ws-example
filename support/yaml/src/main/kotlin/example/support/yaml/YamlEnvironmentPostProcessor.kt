@@ -1,4 +1,4 @@
-package example.auth.support.yaml
+package example.support.yaml
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.env.EnvironmentPostProcessor

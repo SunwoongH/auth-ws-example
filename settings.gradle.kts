@@ -1,9 +1,12 @@
 include(
     "adapter:oauth",
     "adapter:rdb",
+    "adapter:memory",
     "app:api",
-    "app:support:security",
+    "app:support:auth",
+    "app:websocket",
     "core",
     "domain",
     "support:yaml",
+    "support:jwt",
 )

@@ -1,4 +1,4 @@
-package example.auth
+package example
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
